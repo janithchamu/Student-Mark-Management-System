@@ -498,7 +498,7 @@ class Main {
             temp2[temp2.length-1]=temp[maxIndex];
             Ranklist=temp2;
 
-            String [][] temp3 = new String[temp.length-1][4]; ///SMMS
+            String [][] temp3 = new String[temp.length-1][4]; ///SMMS hiii
             for(int j=0;j<maxIndex;j++){
                 temp3[j]=temp[j];
             }
